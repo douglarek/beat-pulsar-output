@@ -1,6 +1,6 @@
 module github.com/douglarek/beat-pulsar-output
 
-go 1.17
+go 1.18
 
 require (
 	github.com/apache/pulsar-client-go v0.9.0
